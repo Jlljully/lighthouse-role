@@ -1,7 +1,7 @@
 Role Name
 =========
 
-lighthouse
+lighthouse-role
 
 Example Playbook
 ----------------
